@@ -1,4 +1,4 @@
-Feature: STC Subscribe page End to End testing
+Feature: STC Subscribe page testing
 
   Scenario Outline: Verify Saudi Arabia subscription packages option types
     Given The user navigate to STC subscription Website
